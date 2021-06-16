@@ -1,0 +1,21 @@
+.start-button {
+  width: 100px;
+  height: 30px;
+  background-color: #f2f9fe;
+  color: #2196f3;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.disabled {
+  cursor: default;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+
+

@@ -1,0 +1,28 @@
+[
+  {
+    "category": "animals",
+    "images": [
+      "bear.jpg",
+      "dog.jpg",
+      "elephant.jpg",
+      "flamingo.jpg",
+      "owl.jpg",
+      "peacock.jpg",
+      "rhino.jpg",
+      "tiger.jpg"
+    ]
+  },
+  {
+    "category": "cars",
+    "images": [
+      "audi.jpg",
+      "corvette.jpg",
+      "delorean.jpg",
+      "dodge.jpg",
+      "range.jpg",
+      "porsche.jpg",
+      "tesla.jpg",
+      "volvo.jpg"
+    ]
+  }
+]

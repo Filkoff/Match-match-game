@@ -1,0 +1,21 @@
+.rules {
+  width: 840px;
+  height: 660px;
+  background-color: rgba(0, 0, 0, 0.05);
+  margin: 100px auto;
+  font-size: 20px;
+  color: black;
+
+
+
+  &__list {
+    margin: 0 50px 50px 50px;
+  }
+
+  h3 {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+  }
+
+}
